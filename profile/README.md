@@ -15,7 +15,7 @@ https://www.initmax.cz/webinars/ CZ<br/>
 **initMAX - Your partner for advanced monitoring**
 ## Like, share and follow us 😍 for more content:  
 - [LinkedIn](https://www.linkedin.com/company/initmax/)🔥
-- [Twitter](https://twitter.com/initmax1)
+- [Twitter](https://twitter.com/initmax)
 - [Instagram](https://www.instagram.com/initmax/)
 - [Facebook](https://www.facebook.com/initmax)
 - [Web](https://www.initmax.cz/)
