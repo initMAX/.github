@@ -4,7 +4,7 @@
 <div align="center">
     <h1 align="center">
     <br>
-    <a href="http://www.initmax.com"><img src="./.readme/logo/initMAX_logo.png" alt="initMAX Logo" width="200"></a>
+    <a href="http://www.initmax.com"><img src="./initMAX_logo.png" alt="initMAX Logo" width="200"></a>
     <br>
     <span>initMAX</span>
     <br>
@@ -38,32 +38,10 @@
         </a>
         <br>
         <br>
-        <a><img src="./.readme/logo/zabbix-premium-partner.svg" alt="initMAX Logo" width="100"></a>&nbsp;&nbsp;&nbsp;
-        <a><img src="./.readme/logo/zabbix-certified-trainer.svg" alt="initMAX Logo" width="100"></a>
+        <a><img src="./zabbix-premium-partner.svg" alt="initMAX Logo" width="100"></a>&nbsp;&nbsp;&nbsp;
+        <a><img src="./zabbix-certified-trainer.svg" alt="initMAX Logo" width="100"></a>
     </h3>
 </div>
-
----
----
-
-<br>
-<br>
-<div align="center">
-    <h1>Message of the Day</h1>
-    <h4>Zabbix | Frontend module</h4>
-    <img alt="Static Badge" src="https://img.shields.io/badge/Required%20Zabbix%20version-7.0.0-red"> <!-- !!! change version !!! -->
-    <img alt="Static Badge" src="https://img.shields.io/badge/Required%20php%20version-8.3-blue"> <!-- !!! change version !!! -->
-    <br>
-    <h3>
-<!-- **** CHANGE table of contents****************************************************************************************************** -->
-        <a href="#paragraph1">paragraph1</a> •<!-- !!! change list !!! -->
-        <a href="#paragraph2">paragraph1</a> •
-        <a href="#free-version">Free version</a> •
-        <a href="#installation">Installation</a>
-<!-- *********************************************************************************************************************************** -->
-    </h3>
-</div>
-<br>
 
 <!-- *********************************************************************************************************************************** -->
 <!-- *** BODY ************************************************************************************************************************** -->
@@ -71,116 +49,9 @@
 <div align="center">
     <img src="./.readme/screen/dashboard.png" width="1000">
 </div>
-<br>
-<br>
 
-## paragraph1
-text
 
-**Note:** note
 
-<!-- *********************************************************************************************************************************** -->
-<br>
-<br>
-
-## paragraph2
-### sub-paragraph
-- text
-
-<div align="center">
-    <img src="./.readme/screen/repeate.png" width="600">
-</div>
-
-- text
-  - text
-
-<!-- *********************************************************************************************************************************** -->
-<br>
-<br>
-
-## paragraph2
-- table
-
-<div align="center">
-
-| column | column         | column                                                                    |
-|--------|----------------|---------------------------------------------------------------------------|
-| ❗     | **column**     | text                                                                      |
-|        | **column**     | text                                                                      | 
-
-</div>
-
-<!-- *********************************************************************************************************************************** -->
-<br>
-<br>
-
-## Free Version
-<div align="center">
-
-| Function                              | Free | Full |
-|---------------------------------------|------|------|
-| License                               | AGPLv3 | Apache 2.0 |
-| Custom                                | ✅   | ✅   |
-| Multiple messages                     | ❌   | ✅   |
-
-</div>
-
-<!-- *********************************************************************************************************************************** -->
-<br>
-<br>
-
-## Installation
-- Connect to your Zabbix frontend server (perform on all frontend nodes)
-
-- Navigate to the `ui/modules/` directory (`ui` is typically located at `/usr/share/zabbix/`)
-```sh
-    cd /usr/share/zabbix/modules/
-```
-
-- Clone repository on your server <!-- !!! repository !!! -->
-```sh
-    git clone https://git.initmax.cz/initMAX-Public/zabbix/widgets/message-of-the-day.git
-``` 
-
-- Change the owner of directory to your web user with `chown`
-```sh
-    # default users
-    # =====================================
-    # nginx
-        chown nginx:nginx ./message-of-the-day
-    # apache (RHEL)
-        chown apache:apache ./message-of-the-day
-    # apache (Deb)
-        chown www-data:www-data ./message-of-the-day
-
-    # If you have a specific user defined for PHP-FPM in `/etc/php-fpm/php-fpm.conf`, you need to use this user and group!.
-``` 
-
-- Add writable rule for `var` directory with `chmod +w`
-```sh
-    chmod +R +w ./message-of-the-day/var
-```
-
-- Go to Zabbix frontend menu -> Administration -> General -> Modules
-<div align="center">
-    <img src="./.readme/installation/menu.png" width="200">
-</div>
-
-- Use the Scan directory button on the top
-<div align="center">
-    <img src="./.readme/installation/scan_directory.png" width="1000">
-</div>
-
-- Enable the module
-<div align="center">
-    <img src="./.readme/installation/enable.png" width="1000">
-    <img src="./.readme/installation/enable_done.png" width="1000">
-</div>
-
-- Use it and enjoy!
-<div align="center">
-    <img src="./.readme/installation/motd.png" width="1000">
-</div>
 
 <!-- *********************************************************************************************************************************** -->
 <!-- *** FOOTER ************************************************************************************************************************ -->
