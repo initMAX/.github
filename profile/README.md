@@ -38,8 +38,8 @@
         </a>
         <br>
         <br>
-        <a><img src="https://github.com/initMAX/.github/blob/main/profile/zabbix-premium-partner.svg" alt="initMAX Logo" width="100"></a>&nbsp;&nbsp;&nbsp;
-        <a><img src="https://github.com/initMAX/.github/blob/main/profile//zabbix-certified-trainer.svg" alt="initMAX Logo" width="100"></a>
+        <a><img src="https://github.com/initMAX/.github/blob/main/profile/zabbix-premium-partner.png" alt="initMAX Logo" width="100"></a>&nbsp;&nbsp;&nbsp;
+        <a><img src="https://github.com/initMAX/.github/blob/main/profile//zabbix-certified-trainer.png" alt="initMAX Logo" width="100"></a>
     </h3>
 </div>
 
