@@ -4,7 +4,7 @@
 <div align="center">
     <h1 align="center">
     <br>
-    <a href="http://www.initmax.com"><img src="./initMAX_logo.png" alt="initMAX Logo" width="200"></a>
+    <a href="http://www.initmax.com"><img src="https://github.com/initMAX/.github/blob/main/profile/initMAX_logo.png" alt="initMAX Logo" width="200"></a>
     <br>
     <span>initMAX</span>
     <br>
@@ -38,8 +38,8 @@
         </a>
         <br>
         <br>
-        <a><img src="./zabbix-premium-partner.svg" alt="initMAX Logo" width="100"></a>&nbsp;&nbsp;&nbsp;
-        <a><img src="./zabbix-certified-trainer.svg" alt="initMAX Logo" width="100"></a>
+        <a><img src="https://github.com/initMAX/.github/blob/main/profile/zabbix-premium-partner.svg" alt="initMAX Logo" width="100"></a>&nbsp;&nbsp;&nbsp;
+        <a><img src="https://github.com/initMAX/.github/blob/main/profile//zabbix-certified-trainer.svg" alt="initMAX Logo" width="100"></a>
     </h3>
 </div>
 
@@ -47,7 +47,7 @@
 <!-- *** BODY ************************************************************************************************************************** -->
 <!-- *********************************************************************************************************************************** -->
 <div align="center">
-    <img src="./.readme/screen/dashboard.png" width="1000">
+    <img src="https://github.com/initMAX/.github/blob/main/profile/initMAX_logo.png" width="1000">
 </div>
 
 
