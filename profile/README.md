@@ -82,9 +82,5 @@
         <a href="https://github.com/initmax">
             <img alt="Static Badge" src="https://img.shields.io/badge/%20-%20?style=social&logo=github">
         </a>
-        <br><br><br>
-        <a>
-            <img src="./.readme/logo/agplv3.png" width="100">
-        </a>
     </h4>
 </div>
