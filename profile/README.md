@@ -2,15 +2,15 @@
 <!-- *** HEADER ************************************************************************************************************************ -->
 <!-- *********************************************************************************************************************************** -->
 <div align="center">
-    <a href="http://www.initmax.com"><img src="./profile/initMAX_banner.png" alt="initMAX Logo"></a>
+    <a href="http://www.initmax.com"><img src="./profile/.readme/logo/initMAX_banner.png" alt="initMAX Logo"></a>
     <h3>
         <span>
             Honesty, diligence and MAXimum knowledge of our products is our standard.
         </span>
     </h3>
     <h3>
-        <a><img src="./profile/zabbix-premium-partner.png" alt="Zabbix premium partner" width="100"></a>&nbsp;&nbsp;&nbsp;
-        <a><img src="./profile/zabbix-certified-trainer.png" alt="Zabbix certified trainer" width="100"></a>
+        <a><img src="./profile/.readme/logo/zabbix-premium-partner.png" alt="Zabbix premium partner" width="100"></a>&nbsp;&nbsp;&nbsp;
+        <a><img src="./profile/.readme/logo/zabbix-certified-trainer.png" alt="Zabbix certified trainer" width="100"></a>
     </h3>
 </div>
 <br>
