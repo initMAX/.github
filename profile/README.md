@@ -2,24 +2,51 @@
 <!-- *** HEADER ************************************************************************************************************************ -->
 <!-- *********************************************************************************************************************************** -->
 <div align="center">
-    <a href="http://www.initmax.com"><img src="./initMAX_banner.png" alt="initMAX Logo"></a>
-    <h3>
+    <a href="http://www.initmax.com"><img src="./.readme/logo/initMAX_banner.png" alt="initMAX Logo"></a>
+    <br><br><br>
+    <h1>
+        Complex IT infrastructure monitoring
+    </h1>
+    <h4>
         <span>
-            Honesty, diligence and MAXimum knowledge of our products is our standard.
+            Zabbix, PostgreSQL, Wazuh, Automation, Identity & Log management, DevOps
         </span>
-    </h3>
-    <h3>
-        <a><img src="./zabbix-premium-partner.png" alt="Zabbix premium partner" width="100"></a>&nbsp;&nbsp;&nbsp;
-        <a><img src="./zabbix-certified-trainer.png" alt="Zabbix certified trainer" width="100"></a>
-    </h3>
+    </h4>
 </div>
 <br>
-<br>
+<div align="center">
+    <h3>
+        <a href="#repositories">Repositories</a> •
+        <a href="#aboutus">About us</a> •
+        <a href="#ourphilosophy">Our philosophy</a>
+    </h3>
+</div>
+<br><br>
+
 
 <!-- *********************************************************************************************************************************** -->
-<!-- *** BODY ************************************************************************************************************************** -->
+<!-- *** Repositories ****************************************************************************************************************** -->
 <!-- *********************************************************************************************************************************** -->
 
+# Repositories
+
+| Category | Product | Description | Editions |
+|:---------|:--------|:------------|:---------|
+| 📊 **Templates** | [Zabbix Templates](https://github.com/initMAX/Zabbix-Templates) | Our free templates for Zabbix monitoring | 🆓 FREE<br> |
+| 🧩 **Modules** | [Zabbix-UI-Modules-Compact-Dashboard](https://github.com/initMAX/Zabbix-UI-Modules-Compact-Dashboard) | Remove spacing between widgets | 🆓 FREE<br> |
+| 🖥️ **Widgets** | [Zabbix-UI-Widgets-gaugeMAX](https://github.com/initMAX/Zabbix-UI-Widgets-gaugeMAX) | Extends features of the "Gauge" widget by displaying the history using a background graph | 🆓 FREE<br>🏆 PRO |
+
+<br><br>
+
+# About us
+initMAX was created to provide our clients with the MAXimum of our know-how. That is also why we are not the cheapest. We make sure that the team working for our clients is always motivated and has the necessary expertise. The primary goal is to deliver a project that makes sense and has MAXimum effect for the customer. We pull together, only in this way we can achieve MAXimum results. We pride ourselves on great relationships among colleagues and appreciate that our clients often become personal friends.
+
+
+# Our philosophy
+We pride ourselves on honesty, sincerity, knowledge and hard work. We know that this is the only way we can be successful and meet our clients’ expectations as well as our own. The core values that every member of the initMAX team must honour are:
+- **Honesty** = If we agree on something, it's a deal. Even if it costs us unexpected hard work.
+- **Diligence** = What has to be done by the deadline will be done. Failing to deliver what was promised is considered our disgrace. We are working to the MAXimum of our capabilities.
+- **MAXimum product knowledge** = We want to be the best in the business and find the limits of the best tools.
 
 <!-- *********************************************************************************************************************************** -->
 <!-- *** FOOTER ************************************************************************************************************************ -->
