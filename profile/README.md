@@ -41,7 +41,7 @@ We pride ourselves on honesty, sincerity, knowledge and hard work. We know that 
 # Repositories
 
 | Category | Product | Description | Editions |
-|:---------|:--------|:------------|:--------:|
+|:---------|:--------|:------------|:---------|
 | **Templates** | [Zabbix Templates](https://github.com/initMAX/Zabbix-Templates) | Our free templates for Zabbix monitoring | <img src="./FREE.png" height="20"><br><img src="./BLANK.png" height="20"> |
 | **Modules** | [Zabbix-UI-Modules-Compact-Dashboard](https://github.com/initMAX/Zabbix-UI-Modules-Compact-Dashboard) | Remove spacing between widgets | <img src="./FREE.png" height="20"><br><img src="./BLANK.png" height="20"> |
 | **Widgets** | [Zabbix-UI-Widgets-gaugeMAX](https://github.com/initMAX/Zabbix-UI-Widgets-gaugeMAX) | Extends features of the "Gauge" widget by displaying the history using a background graph | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
