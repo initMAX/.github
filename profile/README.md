@@ -41,7 +41,7 @@ We pride ourselves on honesty, sincerity, knowledge and hard work. We know that 
 ## Repositories 🚀
 
 > We group our open‑source work by what it extends in Zabbix—templates, widgets, or full UI modules.  
-> Everything is open‑source, mostly licensed under GPL‑3.0.
+> Everything is open‑source, mostly licensed under AGPL‑3.0.
 
 ### Templates & Items
 | Category | Project | Short description | Editions |
