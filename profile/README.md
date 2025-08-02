@@ -62,7 +62,7 @@ We pride ourselves on honesty, sincerity, knowledge and hard work. We know that 
 | **Widgets** | [Zabbix‑UI‑Widgets‑gaugeMAX](https://github.com/initMAX/Zabbix-UI-Widgets-gaugeMAX) | Extended **Gauge** widget with historical overlay. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
 | **Widgets** | [Zabbix‑UI‑Widgets‑itemMAX](https://github.com/initMAX/Zabbix-UI-Widgets-itemMAX) | Adds a history graph to the **Item Value** widget. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
 | **Widgets** | [Zabbix‑UI‑Widgets‑mineMAX‑game](https://github.com/initMAX/Zabbix-UI-Widgets-mineMAX-game) | Classic *Minesweeper*—right inside your dashboard. | <img src="./FREE.png" height="20"> |
-| **Widgets** | [Zabbix‑UI‑Widgets‑ChatGPT](https://github.com/initMAX/Zabbix-UI-Widgets-ChatGPT) | Interact with OpenAI ChatGPT directly from Zabbix. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
+| **Widgets** | [Zabbix‑UI‑Widgets‑ChatGPT](https://github.com/initMAX/Zabbix-UI-Widgets-ChatGPT) | Interact with OpenAI ChatGPT directly from Zabbix. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"><br><img src="./ENTERPRISE.png" height="20"> |
 
 ### Utilities / Skeletons
 | Category | Project | Short description | Editions |
