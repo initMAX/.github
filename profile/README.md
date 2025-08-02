@@ -54,10 +54,10 @@ We pride ourselves on honesty, sincerity, knowledge and hard work. We know that 
 | Category | Project | Short description | Editions |
 |:---------|:--------|:------------------|:---------|
 | **Modules** | [Zabbix‑UI‑Modules‑Compact‑Dashboard](https://github.com/initMAX/Zabbix-UI-Modules-Compact-Dashboard) | Removes padding between widgets—every pixel counts. | <img src="./FREE.png" height="20"> |
-| **Widgets** | [Zabbix‑UI‑Modules‑Hide‑widget‑header](https://github.com/initMAX/Zabbix-UI-Modules-Hide-widget-header) | Shows the widget header only on hover (edit mode). | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
-| **Modules** | [Zabbix‑UI‑Modules‑uxMAX](https://github.com/initMAX/Zabbix-UI-Modules-uxMAX) | Advanced UI tweaks for clarity and ergonomics. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
+| **Widgets** | [Zabbix‑UI‑Modules‑Hide‑widget‑header](https://github.com/initMAX/Zabbix-UI-Modules-Hide-widget-header) | Shows the widget header only on hover (edit mode). | <img src="./FREE.png" height="20"> |
+| **Modules** | [Zabbix‑UI‑Modules‑uxMAX](https://github.com/initMAX/Zabbix-UI-Modules-uxMAX) | Advanced UI tweaks for clarity and ergonomics. | <img src="./FREE.png" height="20"> |
 | **Modules** | [Zabbix‑UI‑Modules‑Message‑of‑the‑Day](https://github.com/initMAX/Zabbix-UI-Modules-Message-of-the-Day) | MOTD banner to announce important actions or news. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
-| **Widgets** | [Zabbix‑UI‑Modules‑Enhanced‑Problems](https://github.com/initMAX/Zabbix-UI-Modules-Enhanced-Problems) | Improved **Problems** view: multiselect, bulk actions, extra columns. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
+| **Widgets** | [Zabbix‑UI‑Modules‑Enhanced‑Problems](https://github.com/initMAX/Zabbix-UI-Modules-Enhanced-Problems) | Improved **Problems** view: multiselect, bulk actions, extra columns. | <img src="./FREE.png" height="20"> |
 | **Widgets** | [Zabbix‑UI‑Widgets‑headerMAX](https://github.com/initMAX/Zabbix-UI-Widgets-headerMAX) | Flexible rich‑text header with buttons for dashboards. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
 | **Widgets** | [Zabbix‑UI‑Widgets‑gaugeMAX](https://github.com/initMAX/Zabbix-UI-Widgets-gaugeMAX) | Extended **Gauge** widget with historical overlay. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
 | **Widgets** | [Zabbix‑UI‑Widgets‑itemMAX](https://github.com/initMAX/Zabbix-UI-Widgets-itemMAX) | Adds a history graph to the **Item Value** widget. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
