@@ -44,42 +44,32 @@ We pride ourselves on honesty, sincerity, knowledge and hard work. We know that 
 > Everything is open‑source, mostly licensed under GPL‑3.0.
 
 ### Templates & Items
-| Project | Short description | Editions |
-|:--------|:------------------|:---------|
-| [Zabbix‑Templates](https://github.com/initMAX/Zabbix-Templates) | Our free templates for Zabbix. | <img src="./FREE.png" height="20"> |
-| [multiple‑website‑certificate‑by‑zabbix‑agent‑2](https://github.com/initMAX/multiple-website-certificate-by-zabbix-agent-2)  | Bulk TLS/SSL expiry checks using only Zabbix Agent 2. | <img src="./FREE.png" height="20"> |
-| [Zabbix‑Items‑LinkedIn‑Followers](https://github.com/initMAX/Zabbix-Items-LinkedIn-Followers) | Track LinkedIn‑follower count without the official API. | <img src="./FREE.png" height="20"> |
+| Category | Project | Short description | Editions |
+|:---------|:--------|:------------------|:---------|
+| **Templates** | [Zabbix‑Templates](https://github.com/initMAX/Zabbix-Templates) | Explore our curated collection of free, ready-to-use Zabbix templates for servers, apps, networks, security and medias. | <img src="./FREE.png" height="20"> |
+| **Templates** | [multiple‑website‑certificate‑by‑zabbix‑agent‑2](https://github.com/initMAX/multiple-website-certificate-by-zabbix-agent-2)  | Bulk TLS/SSL expiry checks using only Zabbix Agent 2. | <img src="./FREE.png" height="20"> |
+| **Templates** | [Zabbix‑Items‑LinkedIn‑Followers](https://github.com/initMAX/Zabbix-Items-LinkedIn-Followers) | Track LinkedIn‑follower count without the official API. | <img src="./FREE.png" height="20"> |
 
-### UI Modules
-| Project | Short description | Editions |
-|:--------|:------------------|:---------|
-| [Zabbix‑UI‑Modules‑Compact‑Dashboard](https://github.com/initMAX/Zabbix-UI-Modules-Compact-Dashboard) | Removes padding between widgets—every pixel counts. | <img src="./FREE.png" height="20"> |
-| [Zabbix‑UI‑Modules‑Hide‑widget‑header](https://github.com/initMAX/Zabbix-UI-Modules-Hide-widget-header) | Shows the widget header only on hover (edit mode). | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
-| [Zabbix‑UI‑Modules‑uxMAX](https://github.com/initMAX/Zabbix-UI-Modules-uxMAX) | Advanced UI tweaks for clarity and ergonomics. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
-| [Zabbix‑UI‑Modules‑Message‑of‑the‑Day](https://github.com/initMAX/Zabbix-UI-Modules-Message-of-the-Day) | MOTD banner to announce important actions or news. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
-| [Zabbix‑UI‑Modules‑Enhanced‑Problems](https://github.com/initMAX/Zabbix-UI-Modules-Enhanced-Problems) | Improved **Problems** view: multiselect, bulk actions, extra columns. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
-
-### Widgets
-| Project | Short description | Editions |
-|:--------|:------------------|:---------|
-| [Zabbix‑UI‑Widgets‑headerMAX](https://github.com/initMAX/Zabbix-UI-Widgets-headerMAX) | Flexible rich‑text header with buttons for dashboards. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
-| [Zabbix‑UI‑Widgets‑gaugeMAX](https://github.com/initMAX/Zabbix-UI-Widgets-gaugeMAX) | Extended **Gauge** widget with historical overlay. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
-| [Zabbix‑UI‑Widgets‑itemMAX](https://github.com/initMAX/Zabbix-UI-Widgets-itemMAX) | Adds a history graph to the **Item Value** widget. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
-| [Zabbix‑UI‑Widgets‑mineMAX‑game](https://github.com/initMAX/Zabbix-UI-Widgets-mineMAX-game) | Classic *Minesweeper*—right inside your dashboard. | <img src="./FREE.png" height="20"> |
-| [Zabbix‑UI‑Widgets‑ChatGPT](https://github.com/initMAX/Zabbix-UI-Widgets-ChatGPT) | Interact with OpenAI ChatGPT directly from Zabbix. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
+### Widget and Modules
+| Category | Project | Short description | Editions |
+|:---------|:--------|:------------------|:---------|
+| **Modules** | [Zabbix‑UI‑Modules‑Compact‑Dashboard](https://github.com/initMAX/Zabbix-UI-Modules-Compact-Dashboard) | Removes padding between widgets—every pixel counts. | <img src="./FREE.png" height="20"> |
+| **Widgets** | [Zabbix‑UI‑Modules‑Hide‑widget‑header](https://github.com/initMAX/Zabbix-UI-Modules-Hide-widget-header) | Shows the widget header only on hover (edit mode). | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
+| **Modules** | [Zabbix‑UI‑Modules‑uxMAX](https://github.com/initMAX/Zabbix-UI-Modules-uxMAX) | Advanced UI tweaks for clarity and ergonomics. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
+| **Modules** | [Zabbix‑UI‑Modules‑Message‑of‑the‑Day](https://github.com/initMAX/Zabbix-UI-Modules-Message-of-the-Day) | MOTD banner to announce important actions or news. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
+| **Widgets** | [Zabbix‑UI‑Modules‑Enhanced‑Problems](https://github.com/initMAX/Zabbix-UI-Modules-Enhanced-Problems) | Improved **Problems** view: multiselect, bulk actions, extra columns. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
+| **Widgets** | [Zabbix‑UI‑Widgets‑headerMAX](https://github.com/initMAX/Zabbix-UI-Widgets-headerMAX) | Flexible rich‑text header with buttons for dashboards. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
+| **Widgets** | [Zabbix‑UI‑Widgets‑gaugeMAX](https://github.com/initMAX/Zabbix-UI-Widgets-gaugeMAX) | Extended **Gauge** widget with historical overlay. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
+| **Widgets** | [Zabbix‑UI‑Widgets‑itemMAX](https://github.com/initMAX/Zabbix-UI-Widgets-itemMAX) | Adds a history graph to the **Item Value** widget. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
+| **Widgets** | [Zabbix‑UI‑Widgets‑mineMAX‑game](https://github.com/initMAX/Zabbix-UI-Widgets-mineMAX-game) | Classic *Minesweeper*—right inside your dashboard. | <img src="./FREE.png" height="20"> |
+| **Widgets** | [Zabbix‑UI‑Widgets‑ChatGPT](https://github.com/initMAX/Zabbix-UI-Widgets-ChatGPT) | Interact with OpenAI ChatGPT directly from Zabbix. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
 
 ### Utilities / Skeletons
-| Project | Short description | Editions |
-|:--------|:------------------|:---------|
-| [Zabbix‑UI‑Rebranding‑skeleton](https://github.com/initMAX/Zabbix-UI-Rebranding-skeleton) | Example of re‑branding the Zabbix front‑end (logos, colours, `brand.conf.php`). | <img src="./FREE.png" height="20"> |
-| [Zabbix‑UI‑Modules‑My‑Module](https://github.com/initMAX/Zabbix-UI-Modules-My-Module) | Minimal skeleton to kick‑start your own module. | <img src="./FREE.png" height="20"> |
+| Category | Project | Short description | Editions |
+|:---------|:--------|:------------------|:---------|
+| **Example** | [Zabbix‑UI‑Rebranding‑skeleton](https://github.com/initMAX/Zabbix-UI-Rebranding-skeleton) | Example of re‑branding the Zabbix front‑end (logos, colours, `brand.conf.php`). | <img src="./FREE.png" height="20"> |
+| **Example** | [Zabbix‑UI‑Modules‑My‑Module](https://github.com/initMAX/Zabbix-UI-Modules-My-Module) | Minimal skeleton to kick‑start your own module. | <img src="./FREE.png" height="20"> |
 
-
-| Category | Product | Description | Editions |
-|:---------|:--------|:------------|:---------|
-| **Templates** | [Zabbix Templates](https://github.com/initMAX/Zabbix-Templates) | Our free templates for Zabbix monitoring | <img src="./FREE.png" height="20"><br><img src="./BLANK.png" height="20"> |
-| **Modules** | [Zabbix-UI-Modules-Compact-Dashboard](https://github.com/initMAX/Zabbix-UI-Modules-Compact-Dashboard) | Remove spacing between widgets | <img src="./FREE.png" height="20"><br><img src="./BLANK.png" height="20"> |
-| **Widgets** | [Zabbix-UI-Widgets-gaugeMAX](https://github.com/initMAX/Zabbix-UI-Widgets-gaugeMAX) | Extends features of the "Gauge" widget by displaying the history using a background graph | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
 
 <!-- *********************************************************************************************************************************** -->
 <!-- *** FOOTER ************************************************************************************************************************ -->
