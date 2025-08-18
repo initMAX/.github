@@ -46,7 +46,7 @@ We pride ourselves on honesty, sincerity, knowledge and hard work. We know that 
 ### Templates & Items
 | Category | Project | Short description | Editions |
 |:---------|:--------|:------------------|:---------|
-| **Templates** | [Zabbix‑Templates](./Zabbix-Templates) | Explore our curated collection of free, ready-to-use Zabbix templates for servers, apps, networks, security and medias. | <img src="./FREE.png" height="20"> |
+| **Templates** | [Zabbix‑Templates](https://github.com/initMAX/Zabbix-Templates) | Explore our curated collection of free, ready-to-use Zabbix templates for servers, apps, networks, security and medias. | <img src="./FREE.png" height="20"> |
 
 ### Widget and Modules
 | Category | Project | Short description | Editions |
