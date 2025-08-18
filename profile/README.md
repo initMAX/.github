@@ -71,8 +71,8 @@ We pride ourselves on honesty, sincerity, knowledge and hard work. We know that 
 ### Archived or moved repositories
 | Category | Project | Short description | Editions |
 |:---------|:--------|:------------------|:---------|
-| **Templates** | [multiple‑website‑certificate‑by‑zabbix‑agent‑2](https://github.com/initMAX/multiple-website-certificate-by-zabbix-agent-2)  | Bulk TLS/SSL expiry checks using only Zabbix Agent 2. | <img src="./FREE.png" height="20"> |
-| **Templates** | [Zabbix‑Items‑LinkedIn‑Followers](https://github.com/initMAX/Zabbix-Items-LinkedIn-Followers) | Track LinkedIn‑follower count without the official API. | <img src="./FREE.png" height="20"> |
+| **Templates** | <s>[multiple‑website‑certificate‑by‑zabbix‑agent‑2](https://github.com/initMAX/multiple-website-certificate-by-zabbix-agent-2)</s>  | <s>Bulk TLS/SSL expiry checks using only Zabbix Agent 2.</s> | <img src="./FREE.png" height="20"> |
+| **Templates** | <s>[Zabbix‑Items‑LinkedIn‑Followers](https://github.com/initMAX/Zabbix-Items-LinkedIn-Followers)</s> | <s>Track LinkedIn‑follower count without the official API.</s> | <img src="./FREE.png" height="20"> |
 
 <!-- *********************************************************************************************************************************** -->
 <!-- *** FOOTER ************************************************************************************************************************ -->
