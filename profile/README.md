@@ -47,8 +47,6 @@ We pride ourselves on honesty, sincerity, knowledge and hard work. We know that 
 | Category | Project | Short description | Editions |
 |:---------|:--------|:------------------|:---------|
 | **Templates** | [Zabbix‑Templates](https://github.com/initMAX/Zabbix-Templates) | Explore our curated collection of free, ready-to-use Zabbix templates for servers, apps, networks, security and medias. | <img src="./FREE.png" height="20"> |
-| **Templates** | [multiple‑website‑certificate‑by‑zabbix‑agent‑2](https://github.com/initMAX/multiple-website-certificate-by-zabbix-agent-2)  | Bulk TLS/SSL expiry checks using only Zabbix Agent 2. | <img src="./FREE.png" height="20"> |
-| **Templates** | [Zabbix‑Items‑LinkedIn‑Followers](https://github.com/initMAX/Zabbix-Items-LinkedIn-Followers) | Track LinkedIn‑follower count without the official API. | <img src="./FREE.png" height="20"> |
 
 ### Widget and Modules
 | Category | Project | Short description | Editions |
@@ -70,6 +68,9 @@ We pride ourselves on honesty, sincerity, knowledge and hard work. We know that 
 | **Example** | [Zabbix‑UI‑Rebranding‑skeleton](https://github.com/initMAX/Zabbix-UI-Rebranding-skeleton) | Example of re‑branding the Zabbix front‑end (logos, colours, `brand.conf.php`). | <img src="./FREE.png" height="20"> |
 | **Example** | [Zabbix‑UI‑Modules‑My‑Module](https://github.com/initMAX/Zabbix-UI-Modules-My-Module) | Minimal skeleton to kick‑start your own module. | <img src="./FREE.png" height="20"> |
 
+### Archived or moved repositories
+| **Templates** | [multiple‑website‑certificate‑by‑zabbix‑agent‑2](https://github.com/initMAX/multiple-website-certificate-by-zabbix-agent-2)  | Bulk TLS/SSL expiry checks using only Zabbix Agent 2. | <img src="./FREE.png" height="20"> |
+| **Templates** | [Zabbix‑Items‑LinkedIn‑Followers](https://github.com/initMAX/Zabbix-Items-LinkedIn-Followers) | Track LinkedIn‑follower count without the official API. | <img src="./FREE.png" height="20"> |
 
 <!-- *********************************************************************************************************************************** -->
 <!-- *** FOOTER ************************************************************************************************************************ -->
