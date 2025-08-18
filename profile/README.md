@@ -69,6 +69,8 @@ We pride ourselves on honesty, sincerity, knowledge and hard work. We know that 
 | **Example** | [Zabbix‑UI‑Modules‑My‑Module](https://github.com/initMAX/Zabbix-UI-Modules-My-Module) | Minimal skeleton to kick‑start your own module. | <img src="./FREE.png" height="20"> |
 
 ### Archived or moved repositories
+| Category | Project | Short description | Editions |
+|:---------|:--------|:------------------|:---------|
 | **Templates** | [multiple‑website‑certificate‑by‑zabbix‑agent‑2](https://github.com/initMAX/multiple-website-certificate-by-zabbix-agent-2)  | Bulk TLS/SSL expiry checks using only Zabbix Agent 2. | <img src="./FREE.png" height="20"> |
 | **Templates** | [Zabbix‑Items‑LinkedIn‑Followers](https://github.com/initMAX/Zabbix-Items-LinkedIn-Followers) | Track LinkedIn‑follower count without the official API. | <img src="./FREE.png" height="20"> |
 
