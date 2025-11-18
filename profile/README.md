@@ -37,48 +37,48 @@ We pride ourselves on honesty, sincerity, knowledge and hard work. We know that 
 
 ## Repositories 🚀
 
-> We group our open‑source work by what it extends in Zabbix—templates, widgets, or full UI modules.  
-> Everything is open‑source, mostly licensed under AGPL‑3.0.
+> We group our open-source work by what it extends in Zabbix—templates, widgets, or full UI modules.  
+> Everything is open-source, mostly licensed under AGPL-3.0.
 
 ### Templates & Items
 | Category | Project | Short description | Editions |
 |:---------|:--------|:------------------|:---------|
-| **Templates** | [Zabbix‑Templates](https://github.com/initMAX/Zabbix-Templates) | Explore our curated collection of free, ready-to-use Zabbix templates for servers, apps, networks, security and medias. | <img src="./FREE.png" height="20"> |
+| **Templates** | [Zabbix-Templates](https://github.com/initMAX/Zabbix-Templates) | Explore our curated collection of free, ready-to-use Zabbix templates for servers, apps, networks, security and medias. | <img src="./FREE.png" height="20"> |
 
 ### Widgets and Modules
 | Category | Project | Short description | Editions |
 |:---------|:--------|:------------------|:---------|
-| **Modules** | [Zabbix‑UI‑Modules‑AI‑Preprocessing‑Assistant](https://github.com/initMAX/Zabbix-UI-Modules-AI-Preprocessing-Assistant) | AI assistant for preprocessing configuration. | <img src="./PRO.png" height="20"> |
-| **Modules** | [Zabbix‑UI‑Modules‑AI‑Problem‑Diagnostics‑Assistant](https://github.com/initMAX/Zabbix-UI-Modules-AI-Problem-Diagnostics-Assistant) | AI assistant that analyzes hosts, items, and events to help identify and resolve issues. | <img src="./PRO.png" height="20"> |
-| **Modules** | [Zabbix‑UI‑Modules‑Compact‑Dashboard](https://github.com/initMAX/Zabbix-UI-Modules-Compact-Dashboard) | Removes padding between widgets—every pixel counts. | <img src="./FREE.png" height="20"> |
-| **Modules** | [Zabbix‑UI‑Modules‑Custom‑Menu‑Buttons](https://github.com/initMAX/Zabbix-UI-Modules-Custom-Menu-Buttons) | Extend the navigation menu by adding custom buttons with links to user‑defined URLs. | <img src="./PRO.png" height="20"> |
-| **Modules** | [Zabbix‑UI‑Modules‑Hide‑widget‑header](https://github.com/initMAX/Zabbix-UI-Modules-Hide-widget-header) | Shows the widget header only on hover (edit mode). | <img src="./FREE.png" height="20"> |
-| **Modules** | [Zabbix‑UI‑Modules‑inventoryMAX](https://github.com/initMAX/Zabbix-UI-Modules-inventoryMAX) | Enhanced inventory management for Zabbix. | <img src="./PRO.png" height="20"> |
-| **Modules** | [Zabbix‑UI‑Modules‑Message‑of‑the‑Day](https://github.com/initMAX/Zabbix-UI-Modules-Message-of-the-Day) | MOTD banner to announce important actions or news. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
-| **Modules** | [Zabbix‑UI‑Modules‑Sortable‑latest‑data](https://github.com/initMAX/Zabbix-UI-Modules-Sortable-latest-data) | Module that can sort data by the last value. | <img src="./FREE.png" height="20"> |
-| **Modules** | [Zabbix‑UI‑Modules‑Structured‑dashboards](https://github.com/initMAX/Zabbix-UI-Modules-Structured-dashboards) | Organize dashboards in a structured way. | <img src="./FREE.png" height="20"> |
-| **Modules** | [Zabbix‑UI‑Modules‑User‑filter‑manager](https://github.com/initMAX/Zabbix-UI-Modules-User-filter-manager) | Manage user filters more efficiently. | <img src="./FREE.png" height="20"> |
-| **Modules** | [Zabbix‑UI‑Modules‑uxMAX](https://github.com/initMAX/Zabbix-UI-Modules-uxMAX) | Advanced UI tweaks for clarity and ergonomics. | <img src="./FREE.png" height="20"> |
-| **Widgets** | [Zabbix‑UI‑Widgets‑ChatGPT](https://github.com/initMAX/Zabbix-UI-Widgets-ChatGPT) | Interact with OpenAI ChatGPT directly from Zabbix. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"><br><img src="./ENTERPRISE.png" height="20"> |
-| **Widgets** | [Zabbix‑UI‑Widgets‑Enhanced‑Problems](https://github.com/initMAX/Zabbix-UI-Widgets-Enhanced-Problems) | Improved **Problems** view: multiselect, bulk actions, extra columns. | <img src="./FREE.png" height="20"> |
-| **Widgets** | [Zabbix‑UI‑Widgets‑gaugeMAX](https://github.com/initMAX/Zabbix-UI-Widgets-gaugeMAX) | Extended **Gauge** widget with historical overlay. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
-| **Widgets** | [Zabbix‑UI‑Widgets‑headerMAX](https://github.com/initMAX/Zabbix-UI-Widgets-headerMAX) | Flexible rich‑text header with buttons for dashboards. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
-| **Widgets** | [Zabbix‑UI‑Widgets‑itemMAX](https://github.com/initMAX/Zabbix-UI-Widgets-itemMAX) | Adds a history graph to the **Item Value** widget. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
-| **Widgets** | [Zabbix‑UI‑Widgets‑matrixMAX](https://github.com/initMAX/Zabbix-UI-Widgets-matrixMAX) | Matrix‑style widget for Zabbix dashboards. | <img src="./PRO.png" height="20"> |
-| **Widgets** | [Zabbix‑UI‑Widgets‑mineMAX‑game](https://github.com/initMAX/Zabbix-UI-Widgets-mineMAX-game) | Classic *Minesweeper*—right inside your dashboard. | <img src="./FREE.png" height="20"> |
-| **Widgets** | [Zabbix‑UI‑Widgets‑tetrisMAX](https://github.com/initMAX/Zabbix-UI-Widgets-tetrisMAX) | Classic *Tetris* game widget for your dashboard. | <img src="./FREE.png" height="20"> |
+| **Modules** | [Zabbix UI Modules AI Preprocessing Assistant](https://github.com/initMAX/Zabbix-UI-Modules-AI-Preprocessing-Assistant) | AI assistant for preprocessing configuration. | <img src="./PRO.png" height="20"> |
+| **Modules** | [Zabbix UI Modules AI Problem Diagnostics Assistant](https://github.com/initMAX/Zabbix-UI-Modules-AI-Problem-Diagnostics-Assistant) | AI assistant that analyzes hosts, items, and events to help identify and resolve issues. | <img src="./PRO.png" height="20"> |
+| **Modules** | [Zabbix UI Modules Compact Dashboard](https://github.com/initMAX/Zabbix-UI-Modules-Compact-Dashboard) | Removes padding between widgets—every pixel counts. | <img src="./FREE.png" height="20"> |
+| **Modules** | [Zabbix UI Modules Custom Menu Buttons](https://github.com/initMAX/Zabbix-UI-Modules-Custom-Menu-Buttons) | Extend the navigation menu by adding custom buttons with links to user-defined URLs. | <img src="./PRO.png" height="20"> |
+| **Modules** | [Zabbix UI Modules Hide Widget Header](https://github.com/initMAX/Zabbix-UI-Modules-Hide-widget-header) | Shows the widget header only on hover (edit mode). | <img src="./FREE.png" height="20"> |
+| **Modules** | [Zabbix UI Modules inventoryMAX](https://github.com/initMAX/Zabbix-UI-Modules-inventoryMAX) | Enhanced inventory management for Zabbix. | <img src="./PRO.png" height="20"> |
+| **Modules** | [Zabbix UI Modules Message of the Day](https://github.com/initMAX/Zabbix-UI-Modules-Message-of-the-Day) | MOTD banner to announce important actions or news. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
+| **Modules** | [Zabbix UI Modules Sortable Latest Data](https://github.com/initMAX/Zabbix-UI-Modules-Sortable-latest-data) | Module that can sort data by the last value. | <img src="./FREE.png" height="20"> |
+| **Modules** | [Zabbix UI Modules Structured Dashboards](https://github.com/initMAX/Zabbix-UI-Modules-Structured-dashboards) | Organize dashboards in a structured way. | <img src="./FREE.png" height="20"> |
+| **Modules** | [Zabbix UI Modules User Filter Manager](https://github.com/initMAX/Zabbix-UI-Modules-User-filter-manager) | Manage user filters more efficiently. | <img src="./FREE.png" height="20"> |
+| **Modules** | [Zabbix UI Modules uxMAX](https://github.com/initMAX/Zabbix-UI-Modules-uxMAX) | Advanced UI tweaks for clarity and ergonomics. | <img src="./FREE.png" height="20"> |
+| **Widgets** | [Zabbix UI Widgets ChatGPT](https://github.com/initMAX/Zabbix-UI-Widgets-ChatGPT) | Interact with OpenAI ChatGPT directly from Zabbix. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"><br><img src="./ENTERPRISE.png" height="20"> |
+| **Widgets** | [Zabbix UI Widgets Enhanced Problems](https://github.com/initMAX/Zabbix-UI-Widgets-Enhanced-Problems) | Improved **Problems** view: multiselect, bulk actions, extra columns. | <img src="./FREE.png" height="20"> |
+| **Widgets** | [Zabbix UI Widgets gaugeMAX](https://github.com/initMAX/Zabbix-UI-Widgets-gaugeMAX) | Extended **Gauge** widget with historical overlay. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
+| **Widgets** | [Zabbix UI Widgets headerMAX](https://github.com/initMAX/Zabbix-UI-Widgets-headerMAX) | Flexible rich-text header with buttons for dashboards. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
+| **Widgets** | [Zabbix UI Widgets itemMAX](https://github.com/initMAX/Zabbix-UI-Widgets-itemMAX) | Adds a history graph to the **Item Value** widget. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
+| **Widgets** | [Zabbix UI Widgets matrixMAX](https://github.com/initMAX/Zabbix-UI-Widgets-matrixMAX) | Matrix-style widget for Zabbix dashboards. | <img src="./PRO.png" height="20"> |
+| **Widgets** | [Zabbix UI Widgets mineMAX game](https://github.com/initMAX/Zabbix-UI-Widgets-mineMAX-game) | Classic *Minesweeper*—right inside your dashboard. | <img src="./FREE.png" height="20"> |
+| **Widgets** | [Zabbix UI Widgets tetrisMAX](https://github.com/initMAX/Zabbix-UI-Widgets-tetrisMAX) | Classic *Tetris* game widget for your dashboard. | <img src="./FREE.png" height="20"> |
 
 ### Utilities / Skeletons
 | Category | Project | Short description | Editions |
 |:---------|:--------|:------------------|:---------|
-| **Example** | [Zabbix‑UI‑Rebranding‑skeleton](https://github.com/initMAX/Zabbix-UI-Rebranding-skeleton) | Example of re‑branding the Zabbix front‑end (logos, colours, `brand.conf.php`). | <img src="./FREE.png" height="20"> |
-| **Example** | [Zabbix‑UI‑Modules‑My‑Module](https://github.com/initMAX/Zabbix-UI-Modules-My-Module) | Minimal skeleton to kick‑start your own module. | <img src="./FREE.png" height="20"> |
+| **Example** | [Zabbix-UI-Rebranding-skeleton](https://github.com/initMAX/Zabbix-UI-Rebranding-skeleton) | Example of re-branding the Zabbix front-end (logos, colours, `brand.conf.php`). | <img src="./FREE.png" height="20"> |
+| **Example** | [Zabbix-UI-Modules-My-Module](https://github.com/initMAX/Zabbix-UI-Modules-My-Module) | Minimal skeleton to kick-start your own module. | <img src="./FREE.png" height="20"> |
 
 ### Archived or moved repositories
 | Category | Project | Short description | Editions |
 |:---------|:--------|:------------------|:---------|
-| **Templates** | <s>[multiple‑website‑certificate‑by‑zabbix‑agent‑2](https://github.com/initMAX/multiple-website-certificate-by-zabbix-agent-2)</s>  | <s>Bulk TLS/SSL expiry checks using only Zabbix Agent 2.</s> | <img src="./FREE.png" height="20"> |
-| **Templates** | <s>[Zabbix‑Items‑LinkedIn‑Followers](https://github.com/initMAX/Zabbix-Items-LinkedIn-Followers)</s> | <s>Track LinkedIn‑follower count without the official API.</s> | <img src="./FREE.png" height="20"> |
+| **Templates** | <s>[multiple-website-certificate-by-zabbix-agent-2](https://github.com/initMAX/multiple-website-certificate-by-zabbix-agent-2)</s>  | <s>Bulk TLS/SSL expiry checks using only Zabbix Agent 2.</s> | <img src="./FREE.png" height="20"> |
+| **Templates** | <s>[Zabbix-Items-LinkedIn-Followers](https://github.com/initMAX/Zabbix-Items-LinkedIn-Followers)</s> | <s>Track LinkedIn-follower count without the official API.</s> | <img src="./FREE.png" height="20"> |
 
 
 
