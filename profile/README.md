@@ -98,7 +98,7 @@ We pride ourselves on honesty, sincerity, knowledge and hard work. We know that 
     <a href="https://www.initmax.com/">
         <img alt="web" src="./web.png" height="32"> initMAX.com
     </a>&nbsp;&nbsp;&nbsp;
-    <a href="tel:+420800244442">
+    <a href="https://www.initmax.com/contact/">
         <img alt="phone" src="./phone.png" height="32"> +420800244442
     </a>&nbsp;&nbsp;&nbsp;
     <a href="mailto:info@initmax.com">
