@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="http://www.initmax.com"><img src="./initMAX_banner.png" alt="initMAX Logo"></a>
+    <a href="https://www.initmax.com"><img src="./initMAX_banner.png" alt="initMAX Logo"></a>
     <br><br><br>
     <h1>
         Complex IT infrastructure monitoring
