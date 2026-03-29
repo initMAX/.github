@@ -96,13 +96,13 @@ We pride ourselves on honesty, sincerity, knowledge and hard work. We know that 
 <br>
 <div align="center">
     <a href="https://www.initmax.com/">
-        <img alt="web" src="./web.png" height="32"> initMAX.com
+        <img alt="web" src="./web.png" height="32" align="middle"> initMAX.com
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.initmax.com/contact/">
-        <img alt="phone" src="./phone.png" height="32"> +420800244442
+        <img alt="phone" src="./phone.png" height="32" align="middle"> +420800244442
     </a>&nbsp;&nbsp;&nbsp;
     <a href="mailto:info@initmax.com">
-        <img alt="mail" src="./mail.png" height="32"> info@initmax.com
+        <img alt="mail" src="./mail.png" height="32" align="middle"> info@initmax.com
     </a>
     <br><br><br>
     <a href="https://www.linkedin.com/company/initmax/"><img alt="linkedin" src="./linkedin.png" height="32"></a>&nbsp;
@@ -114,7 +114,7 @@ We pride ourselves on honesty, sincerity, knowledge and hard work. We know that 
     <a><img src="./zabbix-premium-partner.png" alt="Zabbix premium partner" width="80"></a>&nbsp;&nbsp;&nbsp;
     <a><img src="./zabbix-certified-trainer.png" alt="Zabbix certified trainer" width="80"></a>
     <br><br><br>
-    <a>
-        <img src="./agplv3.png" alt="agplv3" width="100">
+    <a href="https://www.gnu.org/licenses/agpl-3.0">
+        <img alt="AGPL-3.0" src="https://img.shields.io/badge/license-AGPL--3.0-blue">
     </a>
 </div>
