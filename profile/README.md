@@ -105,24 +105,12 @@ We pride ourselves on honesty, sincerity, knowledge and hard work. We know that 
         <img alt="mail" src="./mail.png" height="32"> info@initmax.com
     </a>
     <br><br><br>
-    <a href="https://www.linkedin.com/company/initmax/">
-        <img alt="linkedin" src="./linkedin.png" height="32">
-    </a>&nbsp;
-    <a href="https://www.youtube.com/@initmax1">
-        <img alt="youtube" src="./youtube.png" height="32">
-    </a>&nbsp;
-    <a href="https://www.facebook.com/initmax">
-        <img alt="facebook" src="./facebook.png" height="32">
-    </a>&nbsp;
-    <a href="https://www.instagram.com/initmax/">
-        <img alt="instagram" src="./instagram.png" height="32">
-    </a>&nbsp;
-    <a href="https://x.com/initmax">
-        <img alt="x" src="./x.png" height="32">
-    </a>&nbsp;
-    <a href="https://github.com/initmax">
-        <img alt="github" src="./github.png" height="32">
-    </a><br><br><br>
+    <a href="https://www.linkedin.com/company/initmax/"><img alt="linkedin" src="./linkedin.png" height="32"></a>&nbsp;
+    <a href="https://www.youtube.com/@initmax1"><img alt="youtube" src="./youtube.png" height="32"></a>&nbsp;
+    <a href="https://www.facebook.com/initmax"><img alt="facebook" src="./facebook.png" height="32"></a>&nbsp;
+    <a href="https://www.instagram.com/initmax/"><img alt="instagram" src="./instagram.png" height="32"></a>&nbsp;
+    <a href="https://x.com/initmax"><img alt="x" src="./x.png" height="32"></a>&nbsp;
+    <a href="https://github.com/initmax"><img alt="github" src="./github.png" height="32"></a><br><br><br>
     <a><img src="./zabbix-premium-partner.png" alt="Zabbix premium partner" width="80"></a>&nbsp;&nbsp;&nbsp;
     <a><img src="./zabbix-certified-trainer.png" alt="Zabbix certified trainer" width="80"></a>
     <br><br><br>
