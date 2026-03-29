@@ -40,6 +40,11 @@ We pride ourselves on honesty, sincerity, knowledge and hard work. We know that 
 > We group our open-source work by what it extends in Zabbix—templates, widgets, or full UI modules.  
 > Everything is open-source, mostly licensed under AGPL-3.0.
 
+### AI & Integrations
+| Category | Project | Short description | Editions |
+|:---------|:--------|:------------------|:---------|
+| **MCP Server** | [Zabbix MCP Server](https://github.com/initMAX/zabbix-mcp-server) | Complete Zabbix API coverage (220 tools) for any MCP-compatible AI assistant. | <img src="./FREE.png" height="20"> |
+
 ### Templates & Items
 | Category | Project | Short description | Editions |
 |:---------|:--------|:------------------|:---------|
