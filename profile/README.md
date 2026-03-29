@@ -115,6 +115,6 @@ We pride ourselves on honesty, sincerity, knowledge and hard work. We know that 
     <a><img src="./zabbix-certified-trainer.png" alt="Zabbix certified trainer" width="80"></a>
     <br><br><br>
     <a href="https://www.gnu.org/licenses/agpl-3.0">
-        <img alt="AGPL-3.0" src="https://img.shields.io/badge/license-AGPL--3.0-blue">
+        <img alt="AGPL-3.0" src="./agplv3-badge.svg">
     </a>
 </div>
