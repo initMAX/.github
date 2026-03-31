@@ -44,6 +44,7 @@ We pride ourselves on honesty, sincerity, knowledge and hard work. We know that 
 | Category | Project | Short description | Editions |
 |:---------|:--------|:------------------|:---------|
 | **MCP Server** | [Zabbix MCP Server](https://github.com/initMAX/zabbix-mcp-server) | Complete Zabbix API coverage (220 tools) for any MCP-compatible AI assistant. | <img src="./FREE.png" height="20"> |
+| **AI Skills** | [Zabbix AI Skills](https://github.com/initMAX/zabbix-ai-skills) | 35 ready-to-use AI workflows — maintenance, host onboarding, template upgrades, audits, anomaly detection, and more. | <img src="./FREE.png" height="20"> |
 
 ### Templates & Items
 | Category | Project | Short description | Editions |
