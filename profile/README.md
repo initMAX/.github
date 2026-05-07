@@ -72,6 +72,7 @@ We pride ourselves on honesty, sincerity, knowledge and hard work. We know that 
 | **Widgets** | [Zabbix UI Widgets itemMAX](https://github.com/initMAX/Zabbix-UI-Widgets-itemMAX) | Adds a history graph to the **Item Value** widget. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
 | **Widgets** | [Zabbix UI Widgets matrixMAX](https://github.com/initMAX/Zabbix-UI-Widgets-matrixMAX) | Matrix-style widget for Zabbix dashboards. | <img src="./PRO.png" height="20"> |
 | **Widgets** | [Zabbix UI Widgets mineMAX game](https://github.com/initMAX/Zabbix-UI-Widgets-mineMAX-game) | Classic *Minesweeper*—right inside your dashboard. | <img src="./FREE.png" height="20"> |
+| **Widgets** | [Zabbix UI Widgets problemsbysvMAX](https://github.com/initMAX/Zabbix-UI-Widgets-problemsbysvMAX) | Enhanced **Problems by severity**: hides background on empty cells, configurable font size and padding. | <img src="./FREE.png" height="20"> |
 | **Widgets** | [Zabbix UI Widgets tetrisMAX](https://github.com/initMAX/Zabbix-UI-Widgets-tetrisMAX) | Classic *Tetris* game widget for your dashboard. | <img src="./FREE.png" height="20"> |
 
 ### Utilities / Skeletons
