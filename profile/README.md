@@ -2,32 +2,47 @@
     <a href="https://www.initmax.com"><img src="./initMAX_banner.png" alt="initMAX Logo"></a>
     <br><br><br>
     <h1>
-        Complex IT infrastructure monitoring
+        Open-source tools for Zabbix monitoring
     </h1>
     <h4>
         <span>
-            Zabbix, PostgreSQL, Wazuh, Automation, Identity & Log management, DevOps
+            Widgets, modules, templates, AI integrations and automation from a Zabbix Premium Partner &amp; Certified Trainer
         </span>
     </h4>
 </div>
 <br>
 <div align="center">
     <h3>
-        <a href="#repositories">Repositories</a>
+        <a href="#start-here">Start here</a>&nbsp;&nbsp;&nbsp;
+        <a href="#repositories">Repositories</a>&nbsp;&nbsp;&nbsp;
+        <a href="https://portal.initmax.com/catalog">Product catalog</a>&nbsp;&nbsp;&nbsp;
+        <a href="https://www.initmax.com/wiki/">Documentation</a>
     </h3>
 </div>
 <br><br>
 
 # About us
-initMAX was created to provide our clients with the MAXimum of our know-how. That is also why we are not the cheapest. We make sure that the team working for our clients is always motivated and has the necessary expertise. The primary goal is to deliver a project that makes sense and has MAXimum effect for the customer. We pull together, only in this way we can achieve MAXimum results. We pride ourselves on great relationships among colleagues and appreciate that our clients often become personal friends.
+initMAX builds and maintains software for **Zabbix monitoring**: dashboard widgets, frontend modules, production-ready templates, AI workflows and a complete Zabbix MCP server. We also provide implementation, migration, performance tuning, certified training, L3 support and custom development across Europe and the United States, with offices in the Czech Republic, Slovakia and the USA.
+
+We are a **Zabbix Premium Partner and Certified Trainer**. Our public GitHub organization contains open-source tools as well as customer-facing documentation mirrors for initMAX Zabbix products. Downloads and guided installation are available through the [initMAX Portal](https://portal.initmax.com/catalog).
 
 <br><br>
 
 # Our philosophy
-We pride ourselves on honesty, sincerity, knowledge and hard work. We know that this is the only way we can be successful and meet our clients’ expectations as well as our own. The core values that every member of the initMAX team must honour are:
+We pride ourselves on honesty, sincerity, knowledge and hard work. We know that this is the only way we can be successful and meet our clients' expectations as well as our own. The core values that every member of the initMAX team must honour are:
 - **Honesty** = If we agree on something, it's a deal. Even if it costs us unexpected hard work.
 - **Diligence** = What has to be done by the deadline will be done. Failing to deliver what was promised is considered our disgrace. We are working to the MAXimum of our capabilities.
 - **MAXimum product knowledge** = We want to be the best in the business and find the limits of the best tools.
+
+<br><br>
+
+## Start here
+
+| Project | What it does |
+|:--------|:-------------|
+| [Zabbix MCP Server](https://github.com/initMAX/zabbix-mcp-server) | Exposes the complete Zabbix API as 237 tools for ChatGPT, Claude, Codex, VS Code, JetBrains and other MCP clients. |
+| [Zabbix AI Skills](https://github.com/initMAX/zabbix-ai-skills) | Provides 35 ready-to-use workflows for common monitoring, maintenance, audit and onboarding tasks. |
+| [Zabbix Templates](https://github.com/initMAX/Zabbix-Templates) | Collects production-ready templates for infrastructure, applications, networking and security monitoring. |
 
 <br><br>
 
@@ -35,33 +50,34 @@ We pride ourselves on honesty, sincerity, knowledge and hard work. We know that 
 <!-- *** Repositories ****************************************************************************************************************** -->
 <!-- *********************************************************************************************************************************** -->
 
-## Repositories 🚀
+## Repositories
 
-> We group our open-source work by what it extends in Zabbix—templates, widgets, or full UI modules.  
-> Everything is open-source, mostly licensed under AGPL-3.0.
+> We group our public work by what it extends in Zabbix: AI integrations, templates, widgets, full UI modules and development skeletons.
+> Individual repositories clearly identify whether they contain open-source code or a documentation-only public mirror.
 
 ### AI & Integrations
 | Category | Project | Short description | Editions |
 |:---------|:--------|:------------------|:---------|
-| **MCP Server** | [Zabbix MCP Server](https://github.com/initMAX/zabbix-mcp-server) | Complete Zabbix API coverage (220 tools) for any MCP-compatible AI assistant. | <img src="./FREE.png" height="20"> |
-| **AI Skills** | [Zabbix AI Skills](https://github.com/initMAX/zabbix-ai-skills) | 35 ready-to-use AI workflows — maintenance, host onboarding, template upgrades, audits, anomaly detection, and more. | <img src="./FREE.png" height="20"> |
+| **MCP Server** | [Zabbix MCP Server](https://github.com/initMAX/zabbix-mcp-server) | Complete Zabbix API coverage (237 tools) for any MCP-compatible AI assistant. | <img src="./FREE.png" height="20"> |
+| **AI Skills** | [Zabbix AI Skills](https://github.com/initMAX/zabbix-ai-skills) | 35 ready-to-use AI workflows - maintenance, host onboarding, template upgrades, audits, anomaly detection and more. | <img src="./FREE.png" height="20"> |
 
-### Templates & Items
+### Templates & Items
 | Category | Project | Short description | Editions |
 |:---------|:--------|:------------------|:---------|
-| **Templates** | [Zabbix-Templates](https://github.com/initMAX/Zabbix-Templates) | Explore our curated collection of free, ready-to-use Zabbix templates for servers, apps, networks, security and medias. | <img src="./FREE.png" height="20"> |
+| **Templates** | [Zabbix-Templates](https://github.com/initMAX/Zabbix-Templates) | Curated free Zabbix templates for servers, applications, networks, security and media types. | <img src="./FREE.png" height="20"> |
 
 ### Widgets and Modules
 | Category | Project | Short description | Editions |
 |:---------|:--------|:------------------|:---------|
 | **Modules** | [Zabbix UI Modules AI Preprocessing Assistant](https://github.com/initMAX/Zabbix-UI-Modules-AI-Preprocessing-Assistant) | AI assistant for preprocessing configuration. | <img src="./PRO.png" height="20"> |
 | **Modules** | [Zabbix UI Modules AI Problem Diagnostics Assistant](https://github.com/initMAX/Zabbix-UI-Modules-AI-Problem-Diagnostics-Assistant) | AI assistant that analyzes hosts, items, and events to help identify and resolve issues. | <img src="./PRO.png" height="20"> |
-| **Modules** | [Zabbix UI Modules Compact Dashboard](https://github.com/initMAX/Zabbix-UI-Modules-Compact-Dashboard) | Removes padding between widgets—every pixel counts. | <img src="./FREE.png" height="20"> |
+| **Modules** | [Zabbix UI Modules Compact Dashboard](https://github.com/initMAX/Zabbix-UI-Modules-Compact-Dashboard) | Removes padding between widgets - every pixel counts. | <img src="./FREE.png" height="20"> |
 | **Modules** | [Zabbix UI Modules Custom Menu Buttons](https://github.com/initMAX/Zabbix-UI-Modules-Custom-Menu-Buttons) | Extend the navigation menu by adding custom buttons with links to user-defined URLs. | <img src="./PRO.png" height="20"> |
 | **Modules** | [Zabbix UI Modules Hide Widget Header](https://github.com/initMAX/Zabbix-UI-Modules-Hide-widget-header) | Shows the widget header only on hover (edit mode). | <img src="./FREE.png" height="20"> |
 | **Modules** | [Zabbix UI Modules inventoryMAX](https://github.com/initMAX/Zabbix-UI-Modules-inventoryMAX) | Enhanced inventory management for Zabbix. | <img src="./PRO.png" height="20"> |
 | **Modules** | [Zabbix UI Modules Message of the Day](https://github.com/initMAX/Zabbix-UI-Modules-Message-of-the-Day) | MOTD banner to announce important actions or news. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
 | **Modules** | [Zabbix UI Modules Sortable Latest Data](https://github.com/initMAX/Zabbix-UI-Modules-Sortable-latest-data) | Module that can sort data by the last value. | <img src="./FREE.png" height="20"> |
+| **Modules** | [Zabbix UI Modules Stretched Dashboard](https://github.com/initMAX/Zabbix-UI-Modules-Stretched-Dashboard) | Stretches Zabbix dashboards to use the full browser width and available page height. | <img src="./FREE.png" height="20"> |
 | **Modules** | [Zabbix UI Modules Structured Dashboards](https://github.com/initMAX/Zabbix-UI-Modules-Structured-dashboards) | Organize dashboards in a structured way. | <img src="./FREE.png" height="20"> |
 | **Modules** | [Zabbix UI Modules User Filter Manager](https://github.com/initMAX/Zabbix-UI-Modules-User-filter-manager) | Manage user filters more efficiently. | <img src="./FREE.png" height="20"> |
 | **Modules** | [Zabbix UI Modules uxMAX](https://github.com/initMAX/Zabbix-UI-Modules-uxMAX) | Advanced UI tweaks for clarity and ergonomics. | <img src="./FREE.png" height="20"> |
@@ -69,9 +85,11 @@ We pride ourselves on honesty, sincerity, knowledge and hard work. We know that 
 | **Widgets** | [Zabbix UI Widgets Enhanced Problems](https://github.com/initMAX/Zabbix-UI-Widgets-Enhanced-Problems) | Improved **Problems** view: multiselect, bulk actions, extra columns. | <img src="./FREE.png" height="20"> |
 | **Widgets** | [Zabbix UI Widgets gaugeMAX](https://github.com/initMAX/Zabbix-UI-Widgets-gaugeMAX) | Extended **Gauge** widget with historical overlay. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
 | **Widgets** | [Zabbix UI Widgets headerMAX](https://github.com/initMAX/Zabbix-UI-Widgets-headerMAX) | Flexible rich-text header with buttons for dashboards. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
+| **Widgets** | [Zabbix UI Widgets hostnavigatorMAX](https://github.com/initMAX/Zabbix-UI-Widgets-hostnavigatorMAX) | Browse and filter hosts directly from a Zabbix dashboard. | <img src="./FREE.png" height="20"> |
 | **Widgets** | [Zabbix UI Widgets itemMAX](https://github.com/initMAX/Zabbix-UI-Widgets-itemMAX) | Adds a history graph to the **Item Value** widget. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
 | **Widgets** | [Zabbix UI Widgets matrixMAX](https://github.com/initMAX/Zabbix-UI-Widgets-matrixMAX) | Matrix-style widget for Zabbix dashboards. | <img src="./PRO.png" height="20"> |
-| **Widgets** | [Zabbix UI Widgets mineMAX game](https://github.com/initMAX/Zabbix-UI-Widgets-mineMAX-game) | Classic *Minesweeper*—right inside your dashboard. | <img src="./FREE.png" height="20"> |
+| **Widgets** | [Zabbix UI Widgets mineMAX game](https://github.com/initMAX/Zabbix-UI-Widgets-mineMAX-game) | Classic *Minesweeper* - right inside your dashboard. | <img src="./FREE.png" height="20"> |
+| **Widgets** | [Zabbix UI Widgets problemsbysvMAX](https://github.com/initMAX/Zabbix-UI-Widgets-problemsbysvMAX) | Readable Problems by severity view with empty-cell hiding and configurable counters. | <img src="./FREE.png" height="20"> |
 | **Widgets** | [Zabbix UI Widgets tetrisMAX](https://github.com/initMAX/Zabbix-UI-Widgets-tetrisMAX) | Classic *Tetris* game widget for your dashboard. | <img src="./FREE.png" height="20"> |
 
 ### Utilities / Skeletons
@@ -80,10 +98,10 @@ We pride ourselves on honesty, sincerity, knowledge and hard work. We know that 
 | **Example** | [Zabbix-UI-Rebranding-skeleton](https://github.com/initMAX/Zabbix-UI-Rebranding-skeleton) | Example of re-branding the Zabbix front-end (logos, colours, `brand.conf.php`). | <img src="./FREE.png" height="20"> |
 | **Example** | [Zabbix-UI-Modules-My-Module](https://github.com/initMAX/Zabbix-UI-Modules-My-Module) | Minimal skeleton to kick-start your own module. | <img src="./FREE.png" height="20"> |
 
-### Archived or moved repositories
+### Archived or moved repositories
 | Category | Project | Short description | Editions |
 |:---------|:--------|:------------------|:---------|
-| **Templates** | <s>[multiple-website-certificate-by-zabbix-agent-2](https://github.com/initMAX/multiple-website-certificate-by-zabbix-agent-2)</s>  | <s>Bulk TLS/SSL expiry checks using only Zabbix Agent 2.</s> | <img src="./FREE.png" height="20"> |
+| **Templates** | <s>[multiple-website-certificate-by-zabbix-agent-2](https://github.com/initMAX/multiple-website-certificate-by-zabbix-agent-2)</s> | <s>Bulk TLS/SSL expiry checks using only Zabbix Agent 2.</s> | <img src="./FREE.png" height="20"> |
 | **Templates** | <s>[Zabbix-Items-LinkedIn-Followers](https://github.com/initMAX/Zabbix-Items-LinkedIn-Followers)</s> | <s>Track LinkedIn-follower count without the official API.</s> | <img src="./FREE.png" height="20"> |
 
 
