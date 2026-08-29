@@ -2,11 +2,11 @@
     <a href="https://www.initmax.com"><img src="./initMAX_banner.png" alt="initMAX Logo"></a>
     <br><br><br>
     <h1>
-        Open-source tools for Zabbix monitoring
+        Zabbix monitoring tools, templates, widgets, modules and AI integrations
     </h1>
     <h4>
         <span>
-            Widgets, modules, templates, AI integrations and automation from a Zabbix Premium Partner &amp; Certified Trainer
+            Open-source monitoring software and practical Zabbix extensions from a Premium Partner &amp; Certified Trainer
         </span>
     </h4>
 </div>
@@ -14,25 +14,19 @@
 <div align="center">
     <h3>
         <a href="#start-here">Start here</a>&nbsp;&nbsp;&nbsp;
-        <a href="#repositories">Repositories</a>&nbsp;&nbsp;&nbsp;
+        <a href="#zabbix-open-source-projects">Projects</a>&nbsp;&nbsp;&nbsp;
+        <a href="#services-and-expertise">Services</a>&nbsp;&nbsp;&nbsp;
+        <a href="#learning-and-support">Training &amp; support</a>&nbsp;&nbsp;&nbsp;
         <a href="https://portal.initmax.com/catalog">Product catalog</a>&nbsp;&nbsp;&nbsp;
         <a href="https://www.initmax.com/wiki/">Documentation</a>
     </h3>
 </div>
 <br><br>
 
-# About us
-initMAX builds and maintains software for **Zabbix monitoring**: dashboard widgets, frontend modules, production-ready templates, AI workflows and a complete Zabbix MCP server. We also provide implementation, migration, performance tuning, certified training, L3 support and custom development across Europe and the United States, with offices in the Czech Republic, Slovakia and the USA.
+# About initMAX
+initMAX builds and maintains software for **Zabbix monitoring and observability**: dashboard widgets, frontend modules, production-ready templates, AI workflows, monitoring automation and a complete Zabbix MCP server. We also provide implementation, migration, performance tuning, certified training, L3 support and custom development across Europe and the United States, with offices in the Czech Republic, Slovakia and the USA.
 
-We are a **Zabbix Premium Partner and Certified Trainer**. Our public GitHub organization contains open-source tools as well as customer-facing documentation mirrors for initMAX Zabbix products. Downloads and guided installation are available through the [initMAX Portal](https://portal.initmax.com/catalog).
-
-<br><br>
-
-# Our philosophy
-We pride ourselves on honesty, sincerity, knowledge and hard work. We know that this is the only way we can be successful and meet our clients' expectations as well as our own. The core values that every member of the initMAX team must honour are:
-- **Honesty** = If we agree on something, it's a deal. Even if it costs us unexpected hard work.
-- **Diligence** = What has to be done by the deadline will be done. Failing to deliver what was promised is considered our disgrace. We are working to the MAXimum of our capabilities.
-- **MAXimum product knowledge** = We want to be the best in the business and find the limits of the best tools.
+We are a **Zabbix Premium Delivery Partner and Certified Trainer in Europe and the United States**. Our public GitHub organization contains open-source tools as well as customer-facing documentation mirrors for initMAX Zabbix products. Downloads and guided installation are available through the [initMAX Portal](https://portal.initmax.com/catalog).
 
 <br><br>
 
@@ -43,6 +37,42 @@ We pride ourselves on honesty, sincerity, knowledge and hard work. We know that 
 | [Zabbix MCP Server](https://github.com/initMAX/zabbix-mcp-server) | Exposes the complete Zabbix API as 237 tools for ChatGPT, Claude, Codex, VS Code, JetBrains and other MCP clients. |
 | [Zabbix AI Skills](https://github.com/initMAX/zabbix-ai-skills) | Provides 35 ready-to-use workflows for common monitoring, maintenance, audit and onboarding tasks. |
 | [Zabbix Templates](https://github.com/initMAX/Zabbix-Templates) | Collects production-ready templates for infrastructure, applications, networking and security monitoring. |
+
+<br><br>
+
+## Zabbix open-source projects
+
+Looking for **Zabbix templates, dashboard widgets, frontend modules, ChatGPT integration, MCP tools or monitoring automation**? This organization collects initMAX projects for infrastructure monitoring, observability, alerting, visualization, AI-assisted operations and Zabbix user-interface customization.
+
+- **Automate Zabbix with AI:** use the [Zabbix MCP Server](https://github.com/initMAX/zabbix-mcp-server) and [Zabbix AI Skills](https://github.com/initMAX/zabbix-ai-skills).
+- **Monitor infrastructure and security:** browse [Zabbix Templates](https://github.com/initMAX/Zabbix-Templates).
+- **Build better dashboards:** explore our [Zabbix widgets and frontend modules](#widgets-and-modules).
+- **Install supported packages:** use the guided [initMAX Portal catalog](https://portal.initmax.com/catalog).
+
+Public product repositories clearly state whether they contain open-source code or a customer-facing documentation mirror. Product README files and releases are generated from the canonical v3 pipelines maintained by initMAX.
+
+<br><br>
+
+## Services and expertise
+
+| Technology | What initMAX provides |
+|:-----------|:----------------------|
+| [Zabbix](https://www.initmax.com/service/zabbix-services/) | Monitoring architecture, consulting, turn-key deployment, migration, upgrades, performance tuning, technical support, integrations and certified training. |
+| [Wazuh](https://www.initmax.com/service/wazuh-services/) | SIEM and XDR architecture, deployment, migration, upgrades, security optimization, technical support and professional training. |
+| [Proxmox](https://www.initmax.com/service/proxmox-services/) | Proxmox VE virtualization, VMware and Hyper-V migration, clusters, high availability, storage, backup, consulting, implementation and support. |
+| [Infrastructure services](https://www.initmax.com/services/) | PostgreSQL, DevOps automation, identity management, Linux infrastructure and custom integrations. |
+
+<br><br>
+
+## Learning and support
+
+| Resource | Use it for |
+|:---------|:-----------|
+| [Documentation and technical guides](https://www.initmax.com/wiki/) | Practical Zabbix, Wazuh, Proxmox, PostgreSQL and infrastructure knowledge. |
+| [Free technical webinars](https://www.initmax.com/webinars/) | Recorded expert sessions about monitoring, automation, databases and security. |
+| [Zabbix training](https://www.initmax.com/training/) | Official certified courses and practical team training. |
+| [initMAX Portal](https://portal.initmax.com/) | Guided product installation, downloads, licences and customer support. |
+| [Contact initMAX](https://www.initmax.com/contact/) | Discuss consulting, implementation, migration, training or technical support in Europe or the USA. |
 
 <br><br>
 
@@ -104,12 +134,19 @@ We pride ourselves on honesty, sincerity, knowledge and hard work. We know that 
 | **Templates** | <s>[multiple-website-certificate-by-zabbix-agent-2](https://github.com/initMAX/multiple-website-certificate-by-zabbix-agent-2)</s> | <s>Bulk TLS/SSL expiry checks using only Zabbix Agent 2.</s> | <img src="./FREE.png" height="20"> |
 | **Templates** | <s>[Zabbix-Items-LinkedIn-Followers](https://github.com/initMAX/Zabbix-Items-LinkedIn-Followers)</s> | <s>Track LinkedIn-follower count without the official API.</s> | <img src="./FREE.png" height="20"> |
 
+<br><br>
+
+## Our values
+
+- **Honesty** - we keep our agreements and communicate openly.
+- **Diligence** - we finish what we promise and take responsibility for the result.
+- **MAXimum product knowledge** - we continuously test the limits of the technologies we support.
+
 
 
 <br>
 <br>
 
----
 ---
 
 <br>
@@ -129,6 +166,7 @@ We pride ourselves on honesty, sincerity, knowledge and hard work. We know that 
     <a href="https://www.facebook.com/initmax"><img alt="facebook" src="./facebook.png" height="32"></a>&nbsp;
     <a href="https://www.instagram.com/initmax/"><img alt="instagram" src="./instagram.png" height="32"></a>&nbsp;
     <a href="https://x.com/initmax"><img alt="x" src="./x.png" height="32"></a>&nbsp;
+    <a href="https://www.threads.com/@initmax">Threads</a>&nbsp;
     <a href="https://github.com/initmax"><img alt="github" src="./github.png" height="32"></a><br><br><br>
     <a><img src="./zabbix-premium-partner.png" alt="Zabbix premium partner" width="80"></a>&nbsp;&nbsp;&nbsp;
     <a><img src="./zabbix-certified-trainer.png" alt="Zabbix certified trainer" width="80"></a>
