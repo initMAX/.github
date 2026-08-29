@@ -1,29 +1,36 @@
 <div align="center">
-    <a href="https://www.initmax.com"><img src="./initMAX_banner.png" alt="initMAX Logo"></a>
-    <br><br><br>
-    <h1>
-        Zabbix monitoring tools, templates, widgets, modules and AI integrations
-    </h1>
-    <h4>
-        <span>
-            Open-source monitoring software and practical Zabbix extensions from a Premium Partner &amp; Certified Trainer
-        </span>
-    </h4>
-</div>
-<br>
-<div align="center">
-    <h3>
-        <a href="#start-here">Start here</a>&nbsp;&nbsp;&nbsp;
-        <a href="#zabbix-open-source-projects">Projects</a>&nbsp;&nbsp;&nbsp;
-        <a href="#services-and-expertise">Services</a>&nbsp;&nbsp;&nbsp;
-        <a href="#learning-and-support">Training &amp; support</a>&nbsp;&nbsp;&nbsp;
-        <a href="https://portal.initmax.com/catalog">Product catalog</a>&nbsp;&nbsp;&nbsp;
-        <a href="https://www.initmax.com/wiki/">Documentation</a>
-    </h3>
-</div>
-<br><br>
 
-# About initMAX
+<h1>initMAX open-source monitoring</h1>
+
+<p>
+developed and maintained by
+<a href="https://www.initmax.com"><img alt="initMAX" src="./initmax-logo-framed.svg" height="22" valign="middle"></a>
+and community
+</p>
+
+<p><strong>Zabbix tools, templates, dashboard widgets, frontend modules and AI integrations.</strong><br>
+Build, extend and automate monitoring with production-tested software from a Zabbix Premium Delivery Partner &amp; Certified Trainer.</p>
+
+<p>
+<img src="./zabbix-premium-partner.png" alt="Zabbix Premium Delivery Partner" height="54">
+&nbsp;&nbsp;
+<img src="./zabbix-certified-trainer.png" alt="Zabbix Certified Trainer" height="54">
+</p>
+
+<p>
+<a href="#start-here"><strong>Start here</strong></a> &nbsp;·&nbsp;
+<a href="#zabbix-open-source-projects"><strong>Projects</strong></a> &nbsp;·&nbsp;
+<a href="#services-and-expertise"><strong>Services</strong></a> &nbsp;·&nbsp;
+<a href="#learning-and-support"><strong>Training &amp; support</strong></a> &nbsp;·&nbsp;
+<a href="https://portal.initmax.com/catalog"><strong>Portal</strong></a> &nbsp;·&nbsp;
+<a href="https://www.initmax.com/wiki/"><strong>Docs</strong></a>
+</p>
+
+</div>
+
+---
+
+## About initMAX
 initMAX builds and maintains software for **Zabbix monitoring and observability**: dashboard widgets, frontend modules, production-ready templates, AI workflows, monitoring automation and a complete Zabbix MCP server. We also provide implementation, migration, performance tuning, certified training, L3 support and custom development across Europe and the United States, with offices in the Czech Republic, Slovakia and the USA.
 
 We are a **Zabbix Premium Delivery Partner and Certified Trainer in Europe and the United States**. Our public GitHub organization contains open-source tools as well as customer-facing documentation mirrors for initMAX Zabbix products. Downloads and guided installation are available through the [initMAX Portal](https://portal.initmax.com/catalog).
@@ -149,29 +156,26 @@ Public product repositories clearly state whether they contain open-source code 
 
 ---
 
-<br>
 <div align="center">
-    <a href="https://www.initmax.com/">
-        <img alt="web" src="./web.png" height="32" align="middle"> initMAX.com
-    </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.initmax.com/contact/">
-        <img alt="phone" src="./phone.png" height="32" align="middle"> +420800244442
-    </a>&nbsp;&nbsp;&nbsp;
-    <a href="mailto:info@initmax.com">
-        <img alt="mail" src="./mail.png" height="32" align="middle"> info@initmax.com
-    </a>
-    <br><br><br>
-    <a href="https://www.linkedin.com/company/initmax/"><img alt="linkedin" src="./linkedin.png" height="32"></a>&nbsp;
-    <a href="https://www.youtube.com/@initmax1"><img alt="youtube" src="./youtube.png" height="32"></a>&nbsp;
-    <a href="https://www.facebook.com/initmax"><img alt="facebook" src="./facebook.png" height="32"></a>&nbsp;
-    <a href="https://www.instagram.com/initmax/"><img alt="instagram" src="./instagram.png" height="32"></a>&nbsp;
-    <a href="https://x.com/initmax"><img alt="x" src="./x.png" height="32"></a>&nbsp;
-    <a href="https://www.threads.com/@initmax">Threads</a>&nbsp;
-    <a href="https://github.com/initmax"><img alt="github" src="./github.png" height="32"></a><br><br><br>
-    <a><img src="./zabbix-premium-partner.png" alt="Zabbix premium partner" width="80"></a>&nbsp;&nbsp;&nbsp;
-    <a><img src="./zabbix-certified-trainer.png" alt="Zabbix certified trainer" width="80"></a>
-    <br><br><br>
-    <a href="https://www.gnu.org/licenses/agpl-3.0">
-        <img alt="AGPL-3.0" src="./agplv3-badge.svg">
-    </a>
+
+<p>
+<a href="https://www.initmax.com/"><strong>Website</strong></a> &nbsp;·&nbsp;
+<a href="https://portal.initmax.com/"><strong>Portal</strong></a> &nbsp;·&nbsp;
+<a href="https://www.initmax.com/wiki/"><strong>Documentation</strong></a> &nbsp;·&nbsp;
+<a href="https://www.initmax.com/webinars/"><strong>Webinars</strong></a> &nbsp;·&nbsp;
+<a href="https://www.initmax.com/training/"><strong>Training</strong></a> &nbsp;·&nbsp;
+<a href="https://www.initmax.com/contact/"><strong>Contact</strong></a>
+</p>
+
+<p>
+<a href="https://www.linkedin.com/company/initmax/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://www.youtube.com/@initmax1">YouTube</a> &nbsp;·&nbsp;
+<a href="https://www.facebook.com/initmax">Facebook</a> &nbsp;·&nbsp;
+<a href="https://www.instagram.com/initmax/">Instagram</a> &nbsp;·&nbsp;
+<a href="https://x.com/initmax">X</a> &nbsp;·&nbsp;
+<a href="https://www.threads.com/@initmax">Threads</a>
+</p>
+
+<sub>Project licences are listed in each repository &nbsp;·&nbsp; <a href="mailto:info@initmax.com">info@initmax.com</a> &nbsp;·&nbsp; © 2021-2026 initMAX s.r.o.</sub>
+
 </div>
