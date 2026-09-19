@@ -127,6 +127,7 @@ Public product repositories clearly state whether they contain open-source code 
 | **Widgets** | [Zabbix UI Widgets matrixMAX](https://github.com/initMAX/Zabbix-UI-Widgets-matrixMAX) | Matrix-style widget for Zabbix dashboards. | <img src="./PRO.png" height="20"> |
 | **Widgets** | [Zabbix UI Widgets mineMAX game](https://github.com/initMAX/Zabbix-UI-Widgets-mineMAX-game) | Classic *Minesweeper* - right inside your dashboard. | <img src="./FREE.png" height="20"> |
 | **Widgets** | [Zabbix UI Widgets problemsbysvMAX](https://github.com/initMAX/Zabbix-UI-Widgets-problemsbysvMAX) | Readable Problems by severity view with empty-cell hiding and configurable counters. | <img src="./FREE.png" height="20"> |
+| **Widgets** | [Zabbix UI Widgets sokobanMAX](https://github.com/initMAX/Zabbix-UI-Widgets-sokobanMAX) | Classic Sokoban puzzle game in a Zabbix dashboard widget, with 50 solvable levels and a Hall of Fame. | <img src="./FREE.png" height="20"> |
 | **Widgets** | [Zabbix UI Widgets tetrisMAX](https://github.com/initMAX/Zabbix-UI-Widgets-tetrisMAX) | Classic *Tetris* game widget for your dashboard. | <img src="./FREE.png" height="20"> |
 
 ### Utilities / Skeletons
