@@ -114,7 +114,6 @@ Public product repositories clearly state whether they contain open-source code 
 | **Modules** | [Zabbix UI Modules inventoryMAX](https://github.com/initMAX/Zabbix-UI-Modules-inventoryMAX) | Enhanced inventory management for Zabbix. | <img src="./PRO.png" height="20"> |
 | **Modules** | [Zabbix UI Modules Message of the Day](https://github.com/initMAX/Zabbix-UI-Modules-Message-of-the-Day) | MOTD banner to announce important actions or news. | <img src="./FREE.png" height="20"><br><img src="./PRO.png" height="20"> |
 | **Modules** | [Zabbix UI Modules Sortable Latest Data](https://github.com/initMAX/Zabbix-UI-Modules-Sortable-latest-data) | Module that can sort data by the last value. | <img src="./FREE.png" height="20"> |
-| **Modules** | [Zabbix UI Modules Stretched Dashboard](https://github.com/initMAX/Zabbix-UI-Modules-Stretched-Dashboard) | Stretches Zabbix dashboards to use the full browser width and available page height. | <img src="./FREE.png" height="20"> |
 | **Modules** | [Zabbix UI Modules Structured Dashboards](https://github.com/initMAX/Zabbix-UI-Modules-Structured-dashboards) | Organize dashboards in a structured way. | <img src="./FREE.png" height="20"> |
 | **Modules** | [Zabbix UI Modules User Filter Manager](https://github.com/initMAX/Zabbix-UI-Modules-User-filter-manager) | Manage user filters more efficiently. | <img src="./FREE.png" height="20"> |
 | **Modules** | [Zabbix UI Modules uxMAX](https://github.com/initMAX/Zabbix-UI-Modules-uxMAX) | Advanced UI tweaks for clarity and ergonomics. | <img src="./FREE.png" height="20"> |
